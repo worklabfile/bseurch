@@ -33,14 +33,14 @@ const Desktop: React.FC = () => {
 
   const defaultLinks: Omit<DesktopLink, 'id' | 'position'>[] = [
     {
-      url: 'https://elearning.bseu.by/my/',
+      url: 'https://elearning.BSEU.by/my/',
       title: 'BSEU eLearning',
-      favicon: 'https://www.google.com/s2/favicons?domain=elearning.bseu.by&sz=32'
+      favicon: 'https://www.google.com/s2/favicons?domain=elearning.BSEU.by&sz=32'
     },
     {
-      url: 'https://bseu.by/schedule/',
+      url: 'https://BSEU.by/schedule/',
       title: 'BSEU Расписание',
-      favicon: 'https://www.google.com/s2/favicons?domain=bseu.by&sz=32'
+      favicon: 'https://www.google.com/s2/favicons?domain=BSEU.by&sz=32'
     },
     {
       url: 'https://chat.deepseek.com/',

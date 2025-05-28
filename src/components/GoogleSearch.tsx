@@ -42,7 +42,7 @@ const GoogleSearch: React.FC<GoogleSearchProps> = ({ onSearch }) => {
 
   return (
     <div className="fixed inset-0 flex flex-col items-center justify-center">
-      {/* Bseurch Logo */}
+      {/* BSEUrch Logo */}
       <div className="text-6xl font-light text-white mb-8">
         <span className="text-blue-400">B</span>
         <span className="text-red-400">s</span>
