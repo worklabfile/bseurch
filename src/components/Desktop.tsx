@@ -43,12 +43,7 @@ const Desktop: React.FC = () => {
       favicon: 'https://www.google.com/s2/favicons?domain=bseu.by&sz=32'
     },
     {
-      url: 'https://chatgpt.com/',
-      title: 'chatgpt',
-      favicon: 'https://www.google.com/s2/favicons?domain=chatgpt.com&sz=32'
-    },
-    {
-      url: 'https://deepseek.com/',
+      url: 'https://chat.deepseek.com/',
       title: 'deepseek',
       favicon: 'https://www.google.com/s2/favicons?domain=deepseek.com&sz=32'
     }
