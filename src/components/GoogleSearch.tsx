@@ -45,9 +45,9 @@ const GoogleSearch: React.FC<GoogleSearchProps> = ({ onSearch }) => {
       {/* BSEUrch Logo */}
       <div className="text-6xl font-light text-white mb-8">
         <span className="text-blue-400">B</span>
-        <span className="text-red-400">s</span>
-        <span className="text-yellow-400">e</span>
-        <span className="text-blue-400">u</span>
+        <span className="text-red-400">S</span>
+        <span className="text-yellow-400">E</span>
+        <span className="text-blue-400">U</span>
         <span className="text-green-400">r</span>
         <span className="text-red-400">c</span>
         <span className="text-purple-400">h</span>
